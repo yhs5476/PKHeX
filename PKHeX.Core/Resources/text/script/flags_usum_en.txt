@@ -1,5 +1,14 @@
+4060	Is Alolan Champion/Can Receive Gift Magearna
+4562	Been to Akala Island/Can Receive Partner Cap Pikachu
+4563	Received Partner Cap Pikachu
+0518	Received Surfing Pikachu
 0493	Received Gift Porygon
 0504	Received Gift Aerodactyl
+0654	Received Gift Type: Null (1)
+1101	Received Gift Type: Null (2)
+0503	Received Gift Cosmog
+4447	Received Gift Magearna
+0269	Received Gift Poipole
 4420	Articuno Captured
 4421	Zapdos Captured
 4422	Moltres Captured
@@ -37,3 +46,27 @@
 4282	Kyurem Captured
 4424	(US) Xerneas Captured
 4425	(UM) Yveltal Captured
+1627	Solgaleo/Lunala Captured
+1552	Necrozma Captured
+4370	(UM) Stakataka in Poni Grove
+4371	(US) Blacephalon in Poni Grove
+4545	Unlocked Lanturn 360
+4546	Unlocked Primarina Twist
+4547	Unlocked Starmie 720
+4548	Unlocked Over-the-Gyarados
+4490	Circle Pad Controls for Ultra Warp Ride
+4440	Battle Style Learned: Elegant 
+4441	Battle Style Learned: Girlish 
+4442	Battle Style Learned: Reverent 
+4443	Battle Style Learned: Smug 
+4444	Battle Style Learned: Left-Handed 
+4445	Battle Style Learned: Passionate 
+4446	Battle Style Learned: Idol 
+4453	Battle Style Learned: Nihilist
+4074	Unlocked Tauros Charge
+4075	Unlocked Stoutland Search
+4076	Unlocked Machamp Shove
+4077	Unlocked Mudsdale Gallop
+4078	Unlocked Lapras Paddle
+4079	Unlocked Sharpedo Jet
+4080	Unlocked Charizard Glide
